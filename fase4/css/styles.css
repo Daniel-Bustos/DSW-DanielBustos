@@ -1,0 +1,17 @@
+
+.logo{
+	color: rgb(25, 135, 84);
+}
+
+.footer{
+	background: #222;
+	color: #EEE;
+	padding: 0.5rem;
+	/*width: 100%;*/
+	padding-right: 49rem;
+	position: fixed;
+	bottom: 0;
+	display: block;
+
+
+}
